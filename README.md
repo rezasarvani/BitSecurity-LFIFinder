@@ -36,9 +36,12 @@ Options:<br>
                         Byte Injection <br>6) Null Byte Injection + Extension
                         Validation <br>7) Start Path Validation <br>8) Using 4096 Byte
                         Bypass Payload <br>9) All Bypass Methods<br>
+    <br>
     Required Options Are: -u And -p<br>
     <h3><b>Default Values</h3></b><br>
     Delay Time: 3 (Seconds)<br>
     WaitTime: After Discovering 10 Successful Payload<br>
     Attack Type: 8 (All Bypass Methods)<br>
     Tor Usage: n (No)<br>
+    <br>
+    <h5><b>You Can Customize Paths Using linux_paths.txt And windows_paths.txt</h5></b>
