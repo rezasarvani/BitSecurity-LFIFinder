@@ -41,7 +41,7 @@ Options:<br>
     <h3><b>Default Values</h3></b><br>
     Delay Time: 3 (Seconds)<br>
     WaitTime: After Discovering 10 Successful Payload<br>
-    Attack Type: 8 (All Bypass Methods)<br>
+    Attack Type: 9 (All Bypass Methods)<br>
     Tor Usage: n (No)<br>
     <br>
     <h5><b>[*] You Can Customize Paths Using linux_paths.txt And windows_paths.txt</h5></b>
