@@ -44,4 +44,4 @@ Options:<br>
     Attack Type: 8 (All Bypass Methods)<br>
     Tor Usage: n (No)<br>
     <br>
-    <h5><b>You Can Customize Paths Using linux_paths.txt And windows_paths.txt</h5></b>
+    <h5><b>[*] You Can Customize Paths Using linux_paths.txt And windows_paths.txt</h5></b>
