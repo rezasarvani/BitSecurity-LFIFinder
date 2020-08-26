@@ -1,0 +1,16 @@
+windows\system32\drivers\etc\hosts
+Users/Administrator/NTUser.dat
+Documents and Settings/Administrator/NTUser.dat
+apache/logs/access.log
+apache/logs/error.log
+apache/php/php.ini
+boot.ini
+MySQL/data/hostname.err
+php4/php.ini
+php5/php.ini
+php/php.ini
+Program Files/Apache Group/Apache2/conf/httpd.conf
+Program Files/Apache Group/Apache/logs/error.log
+WINDOWS/Repair/SAM
+WINNT/win.ini
+xampp/apache/bin/php.ini

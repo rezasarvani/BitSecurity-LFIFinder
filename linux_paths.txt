@@ -1,0 +1,10 @@
+etc/passwd
+etc/hosts
+etc/group
+apache/logs/
+apache/logs/error.log
+etc/httpd/logs/
+var/log/
+var/www/logs/
+apache/logs/
+usr/local/apache/logs/
