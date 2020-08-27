@@ -7,7 +7,7 @@ Using This Powerfull Tool, You Can Automate Finding And Exploiting LFI Vulnerabi
 
 <h3><b>Installation</b></h3>
 First You Need To Clone The Repository:<br>
-    >> apt-get install https://github.com/rezasarvani/BitSecurity-LFIFinder<br>
+    >> git clone https://github.com/rezasarvani/BitSecurity-LFIFinder<br>
 Then Install Prerequisites:<br>
     python3 -m pip install requests<br>
     python3 -m pip install regex<br>
