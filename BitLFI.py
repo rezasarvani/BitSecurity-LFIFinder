@@ -417,7 +417,7 @@ for payload in payload_list:
 
 
 def show_output():
-	os.system("cls")
+	os.system("clear")
 	print(f"[+] Found {len(final_entry)+len(u_entry)} Entry Point!")
 	print("[+] Trying To Exploit It...")
 	print(f"[+] Total Payload Number: [{len(fpayload_list)}]")
