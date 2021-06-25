@@ -18,18 +18,18 @@ Get Ready To Use The Tool !<br>
 Use "python3 BitLFI.py -h" For Information About Configurations That You Can Make
 <br>
 Options:<br>
-  -h, --help:             show this help message and exit<br>
-  -p PTYPE, --payloadtype=PTYPE: <br>
+  * -h, --help:             show this help message and exit<br>
+  * -p PTYPE, --payloadtype=PTYPE: <br>
                         Windows Payload (1) | Linux Payloads (2) | Both (3)<br>
-  -u TURL, --targeturl=TURL: <br>
+  * -u TURL, --targeturl=TURL: <br>
                         Target URL To Test For LFI Vulnerabillity<br>
-  -d DTIME, --delaytime=DTIME: <br>
+  * -d DTIME, --delaytime=DTIME: <br>
                         How Much Delay Between Request (In Seconds)<br>
-  -w WTIME, --wait=WTIME: <br>
+  * -w WTIME, --wait=WTIME: <br>
                         After How Much Successfull Exploit You Want To Be
                         Asked Again For Continue<Br>
-  -t TUSE, --tor=TUSE:    <br>Use Tor For Requests: (Y/N)<br>
-  -a ATYPE, --attacktype=ATYPE: <br>
+  * -t TUSE, --tor=TUSE:    <br>Use Tor For Requests: (Y/N)<br>
+  * -a ATYPE, --attacktype=ATYPE: <br>
                         Which Type Of Payload You Want To Test Againt Your
                         Target:<br> 1) Absolute Path Bypass <br>2) Non-Recursively
                         Stripped <br>3) URL Encode <br>4) Double URL Encode <br>5) Null
